@@ -57,9 +57,7 @@ export function App() {
     if (currentTVShow) {
       fecthRecommendations(currentTVShow.id);
     }
-  }, [currentTVShow]);
-
-  // console.log("--- Recommendations List --- ",recommendationList);
+  }, [currentTVShow]); 
   return (
     <div
       className={s.main_container}
