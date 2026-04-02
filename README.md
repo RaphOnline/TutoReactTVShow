@@ -54,11 +54,12 @@ Je l’ai réalisé en suivant une **formation / tutoriel en ligne**, avec pour 
 git clone https://github.com/RaphOnline/TutoReactTVShow.git
 cd TutoReactTVShow
 npm install
-npm start
-
 ```
 A la racine du projet créer un fichier .env avec à l'intérieur
-
 ```bash
 REACT_APP_TMDB_KEY = VOTRE_CLE_TMDB
+```
+Puis 
+```bash
+npm run start
 ```
