@@ -1,4 +1,4 @@
-# ReactTvShowTuto
+# React TvShow (Tuto)
 
 > Une petite app React pour explorer des séries, leurs notes et découvrir des recommandations 👀
 
