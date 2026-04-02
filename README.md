@@ -57,3 +57,8 @@ npm install
 npm start
 
 ```
+A la racine du projet créer un fichier .env avec à l'intérieur
+
+```bash
+REACT_APP_TMDB_KEY = VOTRE_CLE_TMDB
+```
